@@ -22,3 +22,6 @@ P2P文件传输
 
 
 ​	在peer上线后便会持续的监听和请求以保证共享文件夹的同步，此时会开启两个线程，一个线程循环监听其他客户端的pull请求，在收到pull请求之后便开始文件传输流程。另一个线程向其他客户端轮询发送pull请求以同步自身的文件夹
+
+#####   Teammates Address
+  sueyunsheng https://github.com/sueyunsheng/-P2P
